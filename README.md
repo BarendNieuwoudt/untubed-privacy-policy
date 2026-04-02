@@ -4,7 +4,7 @@
 
 This Privacy Policy describes how the **Untubed** browser extension (“Untubed”, “we”, “us”) handles information when you use the extension.
 
-Untubed is developed by **Nieuware** (or replace with your legal name / entity). If you have questions about this policy, contact: **[your contact email or support URL]**.
+Untubed is developed by **Nieuware**.
 
 ---
 
