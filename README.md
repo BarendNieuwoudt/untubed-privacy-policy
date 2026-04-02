@@ -89,8 +89,3 @@ We may update this Privacy Policy from time to time. The “Last updated” date
 This policy is provided to help users understand how Untubed handles information in general terms. It is **not legal advice**. If you need legal review (especially for regulated jurisdictions), consult a qualified attorney.
 
 ---
-
-## Contact
-
-**[Your name or company]**  
-**[Contact email or support page URL]**
